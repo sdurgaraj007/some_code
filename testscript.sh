@@ -5,3 +5,4 @@ echo "$NUMBER"
 
 echo "this was run automagically"
 echo "extra line now"
+echo "some more daa"
